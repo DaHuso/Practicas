@@ -6,7 +6,7 @@ author:
 - Wilberth Eduardo Lopez Gomez
 - Felipe Sánchez Soberanis
 
-Profesor: Mtro. Wily FabianCobá García 
+Profesor: Mtro. Wily FabianCobá García
 date: 8 de diciembre de 2022
 
 header-includes: |
@@ -43,7 +43,7 @@ Imagen del funcionamiento de un diodo.
 
 ### Diodo emisor de luz (LED)
 
-Existen varios tipos de diodos con diferentes aplicaciones y utilidades según su configuración y estructura, uno de éstos es el diodo tipo LED, los cuales funcionan en polarización directa, y se caracterizan porque las recombinaciones de los portadores de carga generan fotones, las particulas elementales que forman la luz. Dentro de estos hay de varios tipos, como los DIP (Dual In-Line Package) LED, que son las luces LED tradicionales y en las que piensa la mayoría de la gente cuando se les pide 
+Existen varios tipos de diodos con diferentes aplicaciones y utilidades según su configuración y estructura, uno de éstos es el diodo tipo LED, los cuales funcionan en polarización directa, y se caracterizan porque las recombinaciones de los portadores de carga generan fotones, las particulas elementales que forman la luz. Dentro de estos hay de varios tipos, como los DIP (Dual In-Line Package) LED, que son las luces LED tradicionales y en las que piensa la mayoría de la gente cuando se les pide
 
 ## Materiales
 
