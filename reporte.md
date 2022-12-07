@@ -79,6 +79,8 @@ A continuación se presenta la lista de los componentes utilizados en ambos caso
 
 # SCR
 
+aaaaaaaaaaaa
+
 ## Introducción
 
 ## Objetivo
