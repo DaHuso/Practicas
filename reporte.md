@@ -5,8 +5,6 @@ author:
 - David Alberto Huchim Sosa
 - Wilberth Eduardo Lopez Gomez
 - Felipe Sánchez Soberanis
-
-Profesor: Mtro. Wily FabianCobá García
 date: 8 de diciembre de 2022
 
 header-includes: |
